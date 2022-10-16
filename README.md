@@ -14,4 +14,4 @@ Open the project by using Visual Studio 2019 or higher versions, and build it.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-The images and the background music is from [Pixabay](https://pixabay.com/)
+The images and the background music is from [Pixabay](https://pixabay.com/) and other public domain sources.
